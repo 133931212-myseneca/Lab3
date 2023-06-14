@@ -8,3 +8,10 @@ def write_text_file_with_name(name):
 name = input("Enter your name: ")
 write_text_file_with_name(name)
 
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+
